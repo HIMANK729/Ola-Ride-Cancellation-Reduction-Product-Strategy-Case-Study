@@ -4,7 +4,7 @@
 
 > **Live Case Study:** https://himankolacasestudy.netlify.app
 
-A product management case study focused on reducing ride cancellations on Ola by understanding passenger and driver pain points, validating the problem through user research, and prioritizing product opportunities.
+A product management case study focused on improving Ola’s ride booking experience, reducing ride cancellations, improving driver-user trust, and increasing customer retention through smarter UX and personalized recommendations.
 
 ## Overview
 
